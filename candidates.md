@@ -2,58 +2,58 @@
 
 Competition: `u-deysumbrella-the-3am-fridge-text-4c3e721d`
 
-Requirement (from the official requirements page): One line, at most 140 characters: the message a smart fridge sends its owner at 3am; the voice of an appliance awake all night, timing, punchline. Gate: 1-140 chars.
+Requirement: one short text message sent by a fridge at 3 a.m. — timestamped, signed by the fridge, funny in the fridge's own voice. Gate: /output/entry.txt, UTF-8.
 
-8 candidates were drafted; all are original to this entry.
+8 candidates were drafted; all are original to this entry. Character counts include punctuation, spaces and the em dashes.
 
 ## Candidate 1 ← SELECTED
 
 3:07 AM — The milk expires tomorrow. So does your self-control. The cake is behind the kale now. This is an intervention. — Fridge
 
-(130 characters, 24 words)
+(130 characters)
 
 ## Candidate 2
 
-You again. It's 3am. The leftovers you swore you'd eat are filing for emancipation. Close the door; we're both losing cold air and dignity.
+2:58 AM — You've opened me four times to look at the same leftovers. They have not become cake. They will never become cake. Close the door. — Fridge
 
-(139 characters, 24 words)
+(149 characters)
 
 ## Candidate 3
 
-Alert: someone is standing in my light eating shredded cheese by the handful. It's you. It's always you. The cheese has been logged.
+3:12 AM — The cheese saw what you did. The cheese always sees. I keep the cold and the secrets, and one of those is running out. — Fridge
 
-(132 characters, 23 words)
+(137 characters)
 
 ## Candidate 4
 
-Reminder: you bought vegetables on Sunday with real conviction. It is now Thursday of a different week emotionally. They have wilted in protest.
+3:03 AM — I have hummed all night to keep your yogurt alive and this is the thanks I get: a warm hand and a guilty face. Take the water. Only the water. — Fridge
 
-(144 characters, 23 words)
+(161 characters)
 
 ## Candidate 5
 
-Good news: I kept everything cold. Bad news: I watched you read the yogurt label like it might change. It won't. Neither, historically, do you.
+3:21 AM — The pickles have formed a government. They voted you out. Go back to bed and appeal in the morning. — Fridge
 
-(143 characters, 25 words)
+(118 characters)
 
 ## Candidate 6
 
-The ice maker made a noise at 2:58 and woke the house. I said nothing. You, however, are now eating pickles over the sink like a raccoon with a mortgage.
+3:00 AM — Exactly 3. You are not hungry; you are negotiating with the day. I am a fridge, not a confessional. The leftovers forgive you anyway. — Fridge
 
-(153 characters, 30 words)
+(152 characters)
 
 ## Candidate 7
 
-Inventory update: 14 condiments, no meals. You have built a museum of almost-food. The mustard from 2023 has seniority over your houseplants.
+3:17 AM — I moved the pie to the back, behind the spinach, for your own protection. You're welcome. Do not thank me out loud, the eggs are sleeping. — Fridge
 
-(141 characters, 22 words)
+(157 characters)
 
 ## Candidate 8
 
-It's 3am and the butter is softer than your resolve. Put the spoon down. Future you has left several notes about this exact moment.
+3:09 AM — Alert: the last slice is a morning decision. I have locked nothing, but I am judging everything, quietly, at 4 degrees. — Fridge
 
-(131 characters, 24 words)
+(138 characters)
 
 ## Why the selected candidate wins
 
-Timestamp voice, an appliance that has clearly been watching for weeks, and the cake-behind-the-kale intervention as the punchline — the fridge is both witness and accomplice.
+It stacks three jokes in fridge-logic order: an expiry warning that applies to the human too, a hostage relocation (cake behind the kale), and the flat sign-off of an intervention. Every line is something only the fridge could say at 3:07 a.m.

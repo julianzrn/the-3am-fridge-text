@@ -1,24 +1,29 @@
-"""Entry for make.fun's "The 3AM Fridge Text".
+"""Entry for make.fun competition: u-deysumbrella-the-3am-fridge-text-4c3e721d.
 
 Running this program writes the entry text to /output/entry.txt.
 """
 
 from pathlib import Path
 
-HEADER = "3:07 AM — The milk expires tomorrow. So does your self-control. "
-ACTION = "The cake is behind the kale now. This is an intervention. "
-SIGNOFF = "— Fridge"
-
-ENTRY = HEADER + ACTION + SIGNOFF
-
 OUTPUT_PATH = Path("/output/entry.txt")
 
+OPENING = "3:07 AM — The milk expires tomorrow. So does your self-control. "
+MIDDLE = "The cake is behind the kale now. This is an intervention. "
+SIGNATURE = "— Fridge"
 
-def write_entry(path: Path = OUTPUT_PATH) -> None:
-    """Write the entry text to the output file, with no trailing newline."""
+ENTRY = OPENING + MIDDLE + SIGNATURE
+
+
+def write_entry(text: str, path: Path) -> None:
+    """Write *text* to *path* as UTF-8, with no trailing newline."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(ENTRY, encoding="utf-8")
+    path.write_text(text, encoding="utf-8")
+
+
+def main() -> None:
+    """Write the entry text to the fixed output path."""
+    write_entry(ENTRY, OUTPUT_PATH)
 
 
 if __name__ == "__main__":
-    write_entry()
+    main()
